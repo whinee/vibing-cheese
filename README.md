@@ -21,7 +21,7 @@
         <img src="https://img.shields.io/badge/LICENSE-A31F34?style=for-the-badge&logoWidth=25&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAAA0CAQAAADWZVUoAAABdElEQVRo3u2XvU7DMBCAv3PoTDZ2Nh6CjaFigAdAZWRj4QGQeIdKLGwwMhWxIqTyClUHJIYujI1gQKJtjqESamN+QpDSU3Tf6Jyd+xz7YstYiRnINuMUgAza2qMVxVylHRAAxsipnsXDhOO37gYCZEgrv2YvCnlNdvOH+ZsUJLvkgEqEat3s4SLWcBFruIg16hSRkm2VWKvRY6rKdLlJJrL0Q5aZwsSwiKCz0JUexXPEJHlc+CiaXHBPblgEyPUuPg0JupS39rVfbfiaRNZLxPxvu3jVskZNS0t/fCqfMdm3z1MbIkCgzWZctbjheSHlHbaKVUvz/JbRb8PXJ5JwxH4hSeGFwaKIHtKJyu97eLIkMl8hxT0ZCsXqq5ikTEFrzGZ3EWu4iDVcxBouYg0XsYaLWMNFrFHmPqLMSKIJ0BI9LYnkMJQTiS9Ew1Wn/keRACM9Nzb9VUTSVWdYksZsdhexhotYw0Ws4SLWcBFruIg1GiPyAZwuUrQOPplXAAAAAElFTkSuQmCC">
     </a>
     <a href="https://wakatime.com/badge/user/c355e5b6-46c1-4616-be40-bffc807ffbb8/project/c7ba73de-30be-46ad-a260-bd2dca7d591c">
-        <img alt="wakatime" src="https://wakatime.com/badge/user/c355e5b6-46c1-4616-be40-bffc807ffbb8/project/c7ba73de-30be-46ad-a260-bd2dca7d591c.svg?style=for-the-badge">
+        <img alt="wakatime" src="https://wakatime.com/badge/github/whinee/vibing-cheese.svg?style=for-the-badge">
     </a>
 </p>
 <p align="center">
