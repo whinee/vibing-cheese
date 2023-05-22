@@ -50,9 +50,16 @@ This tutorial is dedicated to my girlfriend from 15 hours away in timezone relat
 
 ## **Important**
 
-By accessing and utilizing the information in this tutorial, you confirm that you have read you agree to the [license](LICENSE.md) agreement, and confirms to have wholly understood the [disclaimer](DISCLAIMER.md) and [terms of usage](TERMS-OF-USAGE.md), understand their contents, and accept the associated risks. If you do not agree with any part of this disclaimer, please refrain from using the tutorial and discontinue any further engagement with it.
+By accessing and utilizing the information in this tutorial, you confirm that you have read and agreed to the [license](LICENSE.md) agreement, and confirms to have read and wholly understood the [disclaimer](DISCLAIMER.md) and [terms of usage](TERMS-OF-USAGE.md), and accept the associated risks. If you do not agree with any part of the [license](LICENSE.md) agreementm, [disclaimer](DISCLAIMER.md), and [terms of usage](TERMS-OF-USAGE.md), please refrain from using the tutorial and discontinue any further engagement with it.
 
 Also yes, I'm a girl. Yes, I have a dick. Deal with it.
+
+## **Donate**
+
+If you like the following tutorial, please consider donating to me through the following mediums. Each cent will go to development of other wonderful tutorials like this, other open source programs like in my [Github Account](https://github.com/whinee), and to my schooling. I am a 17 year old self-taught programmer and will go next year to a state university to study computer science. While it is free, my living expenses will be not. So yeah, even a cent will be appreciated.
+
+- PayPal.me: [paypal.me/whinyaan](https://paypal.me/whinyaan)
+- PayPal Donate: [paypal.com/donate/?hosted_button_id=9YR5JDDEQABKG](https://paypal.com/donate/?hosted_button_id=9YR5JDDEQABKG)
 
 ## **Contacts**
 
@@ -69,13 +76,6 @@ Hereunder my contacts in different platforms, and how much I check the messages 
 - Reddit: <a target="_blank" href="https://reddit.com/user/whi-nyaan">whi-nyaan</a> (Monthly)
 - Github: <a target="_blank" href="https://github.com/whinee">whinee</a> (How would you contact me through Gthub????)
 - E-mail: <a target="_blank" href="mailto:whinyaan@protonmail.com">whinyaan@protonmail.com</a> (Practically never)
-
-## Donate
-
-If you like the following tutorial, please consider donating to me through the following mediums. Each cent will go to development of other wonderful tutorials like this, other open source programs like in my [Github Account](https://github.com/whinee), and to my schooling. I am a 17 year old self-taught programmer and will go next year to a state university to study computer science. While it is free, my living expenses will be not. So yeah, even a cent will be appreciated.
-
-- PayPal.me: [paypal.me/whinyaan](https://paypal.me/whinyaan)
-- PayPal Donate: [paypal.com/donate/?hosted_button_id=9YR5JDDEQABKG](https://paypal.com/donate/?hosted_button_id=9YR5JDDEQABKG)
 
 ## **Materials**
 
