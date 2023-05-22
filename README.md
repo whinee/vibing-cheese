@@ -70,6 +70,13 @@ Hereunder my contacts in different platforms, and how much I check the messages 
 - Github: <a target="_blank" href="https://github.com/whinee">whinee</a> (How would you contact me through Gthub????)
 - E-mail: <a target="_blank" href="mailto:whinyaan@protonmail.com">whinyaan@protonmail.com</a> (Practically never)
 
+## Donate
+
+If you like the following tutorial, please consider donating to me through the following mediums. Each cent will go to development of other wonderful tutorials like this, other open source programs like in my [Github Account](https://github.com/whinee), and to my schooling. I am a 17 year old self-taught programmer and will go next year to a state university to study computer science. While it is free, my living expenses will be not. So yeah, even a cent will be appreciated.
+
+- PayPal.me: [paypal.me/whinyaan](https://paypal.me/whinyaan)
+- PayPal Donate: [paypal.com/donate/?hosted_button_id=9YR5JDDEQABKG](https://paypal.com/donate/?hosted_button_id=9YR5JDDEQABKG)
+
 ## **Materials**
 
 Hereunder the list of materials, prerequisites to getting the materials, where you (a peasant, I presume) could get those materials for cheap or even for free, substitutes for said materials, and whatnot. I recommend for you to read all of the following text, except for the small text, as they are just some shitty commentary. The items that are preceded with a red circle (&#x1F534;) are required for following this tutorial.
@@ -339,4 +346,4 @@ Enjoy!
 
 ### **After Using**
 
-Wipe of the bodily fluids off the vibrator with wet wipes, preferably with alochol content, or with alcohol and cotton or clean cloth. Then, get a clean ziploc bag or food-safe container, then put the thing inside for storage.
+Wipe off the bodily fluids off the vibrator with wet wipes, preferably with alochol content, or with alcohol and cotton or clean cloth. Then, get a clean ziploc bag or food-safe container, then put the thing inside for storage.
