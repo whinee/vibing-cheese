@@ -32,9 +32,9 @@
 
 ---
 
-Website: [vibing-cheese.whinyaan.xyz](https://vibing-cheese.whinyaan.xyz)
-
-Github: [github.com/whinee/vibing-cheese](https://github.com/whinee/vibing-cheese)
+- Github: [github.com/whinee/vibing-cheese](https://github.com/whinee/vibing-cheese)
+- PayPal.me: [paypal.me/whinyaan](https://paypal.me/whinyaan)
+- PayPal Donate: [paypal.com/donate/?hosted_button_id=9YR5JDDEQABKG](https://paypal.com/donate/?hosted_button_id=9YR5JDDEQABKG)
 
 ---
 
@@ -50,7 +50,7 @@ This tutorial is dedicated to my girlfriend from 15 hours away in timezone relat
 
 ## **Important**
 
-By accessing and utilizing the information in this tutorial, you confirm that you have read and agreed to the [license](LICENSE.md) agreement, and confirms to have read and wholly understood the [disclaimer](DISCLAIMER.md) and [terms of usage](TERMS-OF-USAGE.md), and accept the associated risks. If you do not agree with any part of the [license](LICENSE.md) agreementm, [disclaimer](DISCLAIMER.md), and [terms of usage](TERMS-OF-USAGE.md), please refrain from using the tutorial and discontinue any further engagement with it.
+By accessing and utilizing the information in this tutorial, you confirm that you have read and agreed to the [license](LICENSE.md) agreement, and confirms to have read and wholly understood the [disclaimer](DISCLAIMER.md) and [terms of usage](TERMS-OF-USAGE.md), and accept the associated risks. If you do not agree with any part of the [license](LICENSE.md) agreement, [disclaimer](DISCLAIMER.md), and [terms of usage](TERMS-OF-USAGE.md), please refrain from using the tutorial and discontinue any further engagement with it.
 
 Also yes, I'm a girl. Yes, I have a dick. Deal with it.
 
@@ -314,6 +314,8 @@ If it still heats up, then it might be an indication of overloading or having a 
 
 If it still heats up, then replace the motor with another one, repeat the tutorial, and check if it still heats up.
 
+<h4 id="what-to-do-if-it-doesnt-vibrate"><b>Doesn't Vibrate</b></h4>
+
 <h4 id="what-to-do-if-it-the-instruction-above-doesnt-work"><b>The Instructions Above Doesn't Work</b></h4>
 
 You can contact me thru my [contacts](#contacts) to get help. I will appreciate it if you document everything as much as possible. This will not only help me help you even better, but it will also help others as I update this tutorial to cover scenarios that I have not thought of yet, and possible mitigations and fixes for them.
@@ -340,7 +342,7 @@ Sanitize the casing of the vibrator with wet wipes, preferably with alcohol cont
 
 I do not own a proper vibrator, and as such, do not know how to properly use one.
 
-But my use case is for strapping it in the back my biological male genitalia. To do so, you will need a rubber band. Get yourself different kiinds of rubber bands. To test if it is suitable, put the rubber band in ur thumb and index finger then begin stretching it. If it feels like you are not using a significant force to stretch it, but still manages to push back, it is suitable for use. With this rubber band, form a double loop, then put it halfway on the case of the vibrator. Get one of the loops, then carefully put it on your genitalia until the rubber band loop is just under the head of said genitalia. Then, gently, rotate the vibe until it is behind your genitalia.
+But my use case is for strapping it in the back my biological male genitalia. To do so, you will need a rubber band. Get yourself different kinds of rubber bands. To test if it is suitable, put the rubber band in your thumb and index finger then begin stretching it. If it feels like you are not using a significant force to stretch it, but still manages to push back, it is suitable for use. With this rubber band, form a double loop, then put it halfway on the case of the vibrator. Get one of the loops, then carefully put it on your genitalia until the rubber band loop is just under the head of said genitalia. Then, gently, rotate the vibe until it is behind your genitalia.
 
 Enjoy!
 
